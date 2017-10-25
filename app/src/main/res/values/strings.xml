@@ -6,7 +6,8 @@
 
     <string name="action_settings">Settings</string>
 
-    <string name="Intro">Introduction about clubs and it\'s various domains</string>
+    <string name="Intro2">Introduction about clubs and it\'s various domains</string>
+    <string name="Intro1">Introduction</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
